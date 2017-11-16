@@ -10,7 +10,7 @@ class Primero extends CI_Controller {
 
 	public function index() {
 
-		$this->load->view('inicial');
+		$this->load->view('login');
 	}
 
 
